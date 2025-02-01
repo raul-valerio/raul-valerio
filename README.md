@@ -42,5 +42,5 @@ I am an advanced Programming student at [UTN](https://utn.edu.ar/es/). Additiona
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/raulvaleriorolon/)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raul-valerio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-valerio&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/raul-valerio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raul-valerio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/raul-valerio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-valerio&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ----------
