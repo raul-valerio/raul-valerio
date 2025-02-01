@@ -1,6 +1,6 @@
 ### Hi there, I'm [Raul Valerio Rolon](https://raul-valerio.github.io/porfolio.rvr/) 👋
 
-I am an advanced Programming student at [UTN](https://utn.edu.ar/es/). Additionally, I graduated as a Chemical Engineer from the same university.
+I am a programmer and a chemical engineer, graduated from [UTN](https://utn.edu.ar/es/).
 
 ## Skills:
 
